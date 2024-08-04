@@ -17,7 +17,6 @@ body {
   background-position: center; 
   background-size: contain;
   background-repeat: repeat;
-
 }
 
 .content-section {
@@ -41,7 +40,7 @@ body {
 }
 
 .header__menu-item {
- margin-left: auto;
+  margin-left: auto;
 }
 
 .header__menu-item_active {
@@ -59,12 +58,12 @@ body {
 /*фото */
 
 .cover__title {
-	  font-family: 'EB Garamond';
-	  font-style: normal;
-	  font-weight: 400;
-	  font-size: 72px;
-	  line-height: 100%;
-	  color: #FFFFFF;
+	font-family: 'EB Garamond';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 72px;
+	line-height: 100%;
+	color: #FFFFFF;
 }
 
 .accent-span {
@@ -309,7 +308,7 @@ flex-grow: 0;
   color: #F5F5F5;
   }
 
-  .content-section__dark-subtitle {  
+.content-section__dark-subtitle {  
 	width: 320px;
 	height: 135px;
 	font-family: 'Inter';
@@ -324,7 +323,7 @@ flex-grow: 0;
 
   }
 
-  .text-title-black { 
+.text-title-black { 
     position: absolute;
     width: 500px;
     height: 100px;
@@ -369,10 +368,10 @@ flex-grow: 0;
 }
 
 .card__author-photo {
-width: 10rem;
-height: 10rem;
-border-radius: 50%;
-object-fit: cover;
+	width: 10rem;
+	height: 10rem;
+	border-radius: 50%;
+	object-fit: cover;
 }
 
 .card__author-name {
@@ -473,16 +472,16 @@ object-fit: cover;
 
 .footer {
   display: flex;
-flex-direction: row;
-justify-content: space-between;
-align-items: center;
-padding: 20px;
-position: absolute;
-width: 360px;
-height: -100px;
-left: 0px;
-top: 1900px;
-border-top: 1px solid #83792b;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+	padding: 20px;
+	position: absolute;
+	width: 360px;
+	height: -100px;
+	left: 0px;
+	top: 1900px;
+	border-top: 1px solid #83792b;
 }
 
 .text {
