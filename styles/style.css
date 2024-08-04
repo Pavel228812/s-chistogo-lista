@@ -14,9 +14,10 @@ body {
 }
 
 .cover {
-  background-position: center; 
-  background-size: contain;
-  background-repeat: repeat;
+background-position: center; 
+
+background-size: contain;
+background-repeat: repeat;
 }
 
 .content-section {
@@ -174,6 +175,7 @@ body {
 	height: 1100px;
 	left: 20px;
 	top: 100px;
+	
 	background-color: #1e1e1e; 
 	color: #CCCCCC;
 }
@@ -336,7 +338,7 @@ flex-grow: 0;
     flex: none;
     order: 1;
     flex-grow: 0;
-    }
+}
 
 .card {
   display: flex;
