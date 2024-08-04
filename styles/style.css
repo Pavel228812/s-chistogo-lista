@@ -309,7 +309,8 @@ flex-grow: 0;
   color: #F5F5F5;
   }
 
-.content-section__dark-subtitle {  
+.
+content-section__dark-subtitle {  
   width: 320px;
   height: 135px;
   font-family: 'Inter';
@@ -321,10 +322,10 @@ flex-grow: 0;
   flex: none;
   order: 1;
   flex-grow: 0;
+ }
 
-  }
-
-.text-title-black { 
+.
+text-title-black { 
     position: absolute;
     width: 500px;
     height: 100px;
